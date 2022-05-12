@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Ruina</h1>
+<h1 align="center">Hi, I'm Ruina</h1>
 <h3 align="center">I'm a software engineer based in New York</h3>
 
-- 👨‍💻 All of my projects are available at [https://ruinaz.netlify.app/](https://ruinaz.netlify.app/)
+- All of my projects are available at [https://ruinaz.netlify.app/](https://ruinaz.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
