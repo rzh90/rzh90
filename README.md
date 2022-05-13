@@ -12,11 +12,8 @@
       <img src="https://img.shields.io/badge/LinkedIn-red?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </div>
-</div>
-
----
-### Languages and Tools
-<div>
+  
+  <h3>Languages and Tools</h3>
   <img src="https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
   <img src="https://img.shields.io/badge/CSS-red?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
   <img src="https://img.shields.io/badge/JavaScript-red?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
