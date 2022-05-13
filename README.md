@@ -5,7 +5,7 @@
     <a href="https://ruinaz.netlify.app/">
       <img src="https://img.shields.io/badge/portfolio-red?style=for-the-badge" alt="Portfolio Badge"/>
     </a>
-    <a href="https://twitter.com/rzhao90">
+    <a href="https://twitter.com/ruinaz90">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
     <a href="https://linkedin.com/in/ruina-zhao-bb0a92230">
