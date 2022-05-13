@@ -23,8 +23,4 @@
   <img src="https://img.shields.io/badge/Python-red?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/React-red?style=for-the-badge&logo=react&logoColor=white" alt="React">
   <img src="https://img.shields.io/badge/Node.js-red?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <br>
-  <img src="https://img.shields.io/badge/Visual Studio Code-red?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code">
-  <img src="https://img.shields.io/badge/Adobe Photoshop-red?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop">
-  <img src="https://img.shields.io/badge/Adobe Illustrator-red?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Adobe Illustrator">
 </div>
