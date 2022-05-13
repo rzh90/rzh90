@@ -6,7 +6,7 @@
       <img src="https://img.shields.io/badge/portfolio-red?style=for-the-badge" alt="Portfolio Badge"/>
     </a>
     <a href="https://twitter.com/ruinaz90">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+      <img src="https://img.shields.io/badge/Twitter-red?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
     <a href="https://linkedin.com/in/ruina-zhao-bb0a92230">
       <img src="https://img.shields.io/badge/LinkedIn-red?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
