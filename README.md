@@ -1,6 +1,6 @@
 <div id="header" align="center">
-  <h1>Hello World. I'm Ruina.</h1>
-  <h3>I'm a software engineer based in New York</h3>
+  <h1>Hello World, I'm Ruina.</h1>
+  <h3>I'm a software engineer based in New York.</h3>
   <div id="badges">
     <a href="https://ruinaz.netlify.app/">
       <img src="https://img.shields.io/badge/portfolio-red?style=for-the-badge" alt="Portfolio Badge"/>
