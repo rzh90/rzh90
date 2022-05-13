@@ -3,21 +3,21 @@
   <h3>I'm a software engineer based in New York.</h3>
   <div id="badges">
     <a href="https://ruinaz.netlify.app/">
-      <img src="https://img.shields.io/badge/portfolio-red?style=for-the-badge" alt="Portfolio Badge"/>
+      <img src="https://img.shields.io/badge/Portfolio-grey?style=flat-square&logo=google-chrome" alt="Portfolio Badge"/>
     </a>
     <a href="https://twitter.com/ruinaz90">
-      <img src="https://img.shields.io/badge/Twitter-red?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+      <img src="https://img.shields.io/badge/Twitter-grey?style=flat-square&logo=twitter" alt="Twitter Badge"/>
     </a>
     <a href="https://linkedin.com/in/ruina-zhao-bb0a92230">
-      <img src="https://img.shields.io/badge/LinkedIn-red?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      <img src="https://img.shields.io/badge/LinkedIn-grey?style=flat-square&logo=linkedin" alt="LinkedIn Badge"/>
     </a>
   </div>
   
   <h3>Languages and Tools</h3>
-  <img src="https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-  <img src="https://img.shields.io/badge/CSS-red?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
-  <img src="https://img.shields.io/badge/JavaScript-red?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Python-red?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/React-red?style=for-the-badge&logo=react&logoColor=white" alt="React">
-  <img src="https://img.shields.io/badge/Node.js-red?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/HTML-grey?style=flat-square&logo=html5" alt="HTML">
+  <img src="https://img.shields.io/badge/CSS-grey?style=flat-square&logo=css3" alt="CSS">
+  <img src="https://img.shields.io/badge/JavaScript-grey?style=flat-square&logo=javascript" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Python-grey?style=flat-square&logo=python" alt="Python">
+  <img src="https://img.shields.io/badge/React-grey?style=flat-square&logo=react" alt="React">
+  <img src="https://img.shields.io/badge/Node.js-grey?style=flat-square&logo=nodedotjs" alt="Node.js">
 </div>
