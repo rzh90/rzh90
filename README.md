@@ -8,7 +8,7 @@
     <a href="https://twitter.com/ruinaz90">
       <img src="https://img.shields.io/badge/Twitter-grey?style=flat-square&logo=twitter" alt="Twitter Badge"/>
     </a>
-    <a href="https://linkedin.com/in/ruina-zhao-bb0a92230">
+    <a href="https://linkedin.com/in/ruinaz90">
       <img src="https://img.shields.io/badge/LinkedIn-grey?style=flat-square&logo=linkedin" alt="LinkedIn Badge"/>
     </a>
   </div>
