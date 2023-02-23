@@ -5,9 +5,9 @@
     <a href="https://ruinaz.netlify.app/">
       <img src="https://img.shields.io/badge/Portfolio-grey?style=flat-square&logo=google-chrome" alt="Portfolio Badge"/>
     </a>
-    <a href="https://linkedin.com/in/ruinaz90">
+    <!--<a href="https://linkedin.com/in/ruinaz90">
       <img src="https://img.shields.io/badge/LinkedIn-grey?style=flat-square&logo=linkedin" alt="LinkedIn Badge"/>
-    </a>
+    </a>-->
   </div>
   
   <h3>Languages and Tools</h3>
