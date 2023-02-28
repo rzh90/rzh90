@@ -1,6 +1,6 @@
 <div id="header" align="center">
-  <!--<h1>Hello World</h1>
-  <h3>I'm a software engineer based in New York.</h3>-->
+  <h1>Hello World</h1>
+  <h3>I'm a software engineer based in New York.</h3>
   <div id="badges">
     <a href="https://zr2890.netlify.app/">
       <img src="https://img.shields.io/badge/Portfolio-grey?style=flat-square&logo=google-chrome" alt="Portfolio Badge"/>
