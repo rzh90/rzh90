@@ -2,13 +2,13 @@
   <h1>Hello World</h1>
   <h3>I'm a software engineer based in New York.</h3>
   <div id="badges">
-    <a href="https://zr2890.netlify.app/">
+    <!--<a href="https://zr2890.netlify.app/">
       <img src="https://img.shields.io/badge/Portfolio-grey?style=flat-square&logo=google-chrome" alt="Portfolio Badge"/>
     </a>
-    <!--<a href="https://linkedin.com/in/ruinaz90">
+    <a href="https://linkedin.com/in/ruinaz90">
       <img src="https://img.shields.io/badge/LinkedIn-grey?style=flat-square&logo=linkedin" alt="LinkedIn Badge"/>
-    </a>-->
-  </div>
+    </a>
+  </div>-->
   
   <h3>Languages and Tools</h3>
   <img src="https://img.shields.io/badge/CSS-grey?style=flat-square&logo=css3" alt="CSS">
