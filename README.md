@@ -2,7 +2,7 @@
   <h1>Hello World.</h1>
   <h3>I'm a software engineer based in New York.</h3>
   <div id="badges">
-    <a href="https://ruinaz.netlify.app/">
+    <a href="https://rzh90.netlify.app/">
       <img src="https://img.shields.io/badge/Portfolio-grey?style=flat-square&logo=google-chrome" alt="Portfolio Badge"/>
     </a>
     <a href="https://linkedin.com/in/ruinaz90">
