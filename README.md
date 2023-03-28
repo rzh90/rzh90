@@ -5,7 +5,7 @@
     <a href="https://rzh90.netlify.app/">
       <img src="https://img.shields.io/badge/Portfolio-grey?style=flat-square&logo=google-chrome" alt="Portfolio Badge"/>
     </a>
-    <a href="https://linkedin.com/in/ruinaz90">
+    <a href="https://linkedin.com/in/rzh90">
       <img src="https://img.shields.io/badge/LinkedIn-grey?style=flat-square&logo=linkedin" alt="LinkedIn Badge"/>
     </a>
   </div>
