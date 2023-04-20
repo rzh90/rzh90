@@ -5,9 +5,6 @@
     <a href="https://rzh90.netlify.app/">
       <img src="https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&logo=google-chrome" alt="Portfolio Badge"/>
     </a>
-    <a href="https://linkedin.com/in/rzh90">
-      <img src="https://img.shields.io/badge/LinkedIn-grey?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
-    </a>
   </div>
   
   <h3>Languages and Tools</h3>
