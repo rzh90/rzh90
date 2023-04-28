@@ -18,5 +18,5 @@
   <img src="https://img.shields.io/badge/Node.js-grey?style=for-the-badge&logo=nodedotjs" alt="Node.js">
   <img src="https://img.shields.io/badge/PostgreSQL-grey?style=for-the-badge&logo=postgresql" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/Python-grey?style=for-the-badge&logo=python" alt="Python">
-  <img src="https://img.shields.io/badge/Vue.js-grey?style=for-the-badge&logo=vuedotjs" alt="Vue">
+  <img src="https://img.shields.io/badge/Svelte-grey?style=for-the-badge&logo=svelte" alt="Svelte">
 </div>
