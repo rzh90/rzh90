@@ -9,7 +9,6 @@
   
   <h3>Languages and Tools</h3>
   <img src="https://img.shields.io/badge/CSS-lightgrey?style=for-the-badge&logo=css3" alt="CSS">
-  <img src="https://img.shields.io/badge/Django-lightgrey?style=for-the-badge&logo=django" alt="Django">
   <img src="https://img.shields.io/badge/Express-lightgrey?style=for-the-badge&logo=express" alt="Express">
   <img src="https://img.shields.io/badge/HTML-lightgrey?style=for-the-badge&logo=html5" alt="HTML">
   <img src="https://img.shields.io/badge/JavaScript-lightgrey?style=for-the-badge&logo=javascript" alt="JavaScript">
