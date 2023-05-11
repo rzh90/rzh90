@@ -14,7 +14,6 @@
   <img src="https://img.shields.io/badge/HTML-lightgrey?style=for-the-badge&logo=html5" alt="HTML">
   <img src="https://img.shields.io/badge/JavaScript-lightgrey?style=for-the-badge&logo=javascript" alt="JavaScript">
   <img src="https://img.shields.io/badge/MongoDB-lightgrey?style=for-the-badge&logo=mongodb" alt="MongoDB">
-  <img src="https://img.shields.io/badge/Next.js-lightgrey?style=for-the-badge&logo=nextdotjs" alt="Next.js">
   <img src="https://img.shields.io/badge/Node.js-lightgrey?style=for-the-badge&logo=nodedotjs" alt="Node.js">
   <img src="https://img.shields.io/badge/PostgreSQL-lightgrey?style=for-the-badge&logo=postgresql" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/Python-lightgrey?style=for-the-badge&logo=python" alt="Python">
