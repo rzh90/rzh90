@@ -1,7 +1,7 @@
-<div id="header" align="center">
+<div align="center">
   <h1>Hello world.</h1>
   <h3>I'm a software engineer based in New York.</h3>
-  <div id="badges">
+  <div>
     <a href="https://rzh90.netlify.app/">
       <img src="https://img.shields.io/badge/Portfolio-181818?style=for-the-badge&logo=google-chrome" alt="Portfolio Badge"/>
     </a>
