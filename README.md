@@ -1,4 +1,4 @@
-<div align="center">
+<!--<div align="center">
   <h1>Hello world.</h1>
   <h3>I'm a software engineer based in New York.</h3>
   <div>
@@ -18,4 +18,4 @@
   <img src="https://img.shields.io/badge/PostgreSQL-181818?style=for-the-badge&logo=postgresql" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/Python-181818?style=for-the-badge&logo=python" alt="Python">
   <img src="https://img.shields.io/badge/Svelte-181818?style=for-the-badge&logo=svelte" alt="Svelte">
-</div>
+</div>-->
